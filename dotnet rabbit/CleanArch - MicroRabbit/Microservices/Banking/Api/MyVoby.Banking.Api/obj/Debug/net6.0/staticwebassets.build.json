@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lwgXV06wG4vDIZl7mb/b01ivAU395HKbHdtx6ANPvn8=",
+  "Source": "MyVoby.Banking.Api",
+  "BasePath": "_content/MyVoby.Banking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

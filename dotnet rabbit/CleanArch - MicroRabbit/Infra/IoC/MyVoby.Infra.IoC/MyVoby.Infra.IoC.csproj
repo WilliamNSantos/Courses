@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Domain\MyVoby.Domain.Core\MyVoby.Domain.Core.csproj" />
+    <ProjectReference Include="..\..\Bus\MyVoby.Infra.Bus\MyVoby.Infra.Bus.csproj" />
+    <ProjectReference Include="..\..\..\Microservices\Banking\Application\MyVoby.Banking.Application\MyVoby.Banking.Application.csproj" />
+    <ProjectReference Include="..\..\..\Microservices\Banking\Data\MyVoby.Banking.Data\MyVoby.Banking.Data.csproj" />
+    <ProjectReference Include="..\..\..\Microservices\Banking\Domain\MyVoby.Banking.Domain\MyVoby.Banking.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

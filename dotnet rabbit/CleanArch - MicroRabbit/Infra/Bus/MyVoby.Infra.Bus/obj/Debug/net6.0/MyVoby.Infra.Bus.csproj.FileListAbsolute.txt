@@ -1,0 +1,15 @@
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\bin\Debug\net6.0\MyVoby.Infra.Bus.deps.json
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\bin\Debug\net6.0\MyVoby.Infra.Bus.dll
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\bin\Debug\net6.0\ref\MyVoby.Infra.Bus.dll
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\bin\Debug\net6.0\MyVoby.Infra.Bus.pdb
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\bin\Debug\net6.0\MyVoby.Domain.Core.dll
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\bin\Debug\net6.0\MyVoby.Domain.Core.pdb
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\obj\Debug\net6.0\MyVoby.Infra.Bus.csproj.AssemblyReference.cache
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\obj\Debug\net6.0\MyVoby.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\obj\Debug\net6.0\MyVoby.Infra.Bus.AssemblyInfoInputs.cache
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\obj\Debug\net6.0\MyVoby.Infra.Bus.AssemblyInfo.cs
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\obj\Debug\net6.0\MyVoby.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\obj\Debug\net6.0\MyVoby.Infra.Bus.csproj.CopyComplete
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\obj\Debug\net6.0\MyVoby.Infra.Bus.dll
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\obj\Debug\net6.0\ref\MyVoby.Infra.Bus.dll
+C:\Workspace\myVobi\src\Infra\Bus\MyVoby.Infra.Bus\obj\Debug\net6.0\MyVoby.Infra.Bus.pdb

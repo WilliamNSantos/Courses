@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0daaa998-2c57-4d7d-934e-216b7aa07fd3": {
+      "ProjectGuid": "0daaa998-2c57-4d7d-934e-216b7aa07fd3",
+      "DisplayName": "MyVoby.Banking.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

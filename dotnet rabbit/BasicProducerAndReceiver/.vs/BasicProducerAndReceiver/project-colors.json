@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "81397594-76a2-4221-9030-4858c1dbf9bc": {
+      "ProjectGuid": "81397594-76a2-4221-9030-4858c1dbf9bc",
+      "DisplayName": "BasicProducerAndReceiver",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

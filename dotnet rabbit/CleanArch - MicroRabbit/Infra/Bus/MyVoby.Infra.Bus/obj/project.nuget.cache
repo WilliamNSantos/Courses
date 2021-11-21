@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxpOnxN2MecXBWoe299YwoMKwPotBlLoXM6BsoWAYM+y6yv+Lh3PfXt6+QW4mtrrbLg6mJe0BzLqRekWSFaIsA==",
+  "success": true,
+  "projectFilePath": "c:\\Workspace\\myVobi\\src\\Infra\\Bus\\MyVoby.Infra.Bus\\MyVoby.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\william\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\william\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\william\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\william\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\bin\Debug\net6.0\MyVoby.Banking.Domain.deps.json
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\bin\Debug\net6.0\MyVoby.Banking.Domain.dll
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\bin\Debug\net6.0\ref\MyVoby.Banking.Domain.dll
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\bin\Debug\net6.0\MyVoby.Banking.Domain.pdb
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\obj\Debug\net6.0\MyVoby.Banking.Domain.csproj.AssemblyReference.cache
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\obj\Debug\net6.0\MyVoby.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\obj\Debug\net6.0\MyVoby.Banking.Domain.AssemblyInfoInputs.cache
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\obj\Debug\net6.0\MyVoby.Banking.Domain.AssemblyInfo.cs
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\obj\Debug\net6.0\MyVoby.Banking.Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\obj\Debug\net6.0\MyVoby.Banking.Domain.dll
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\obj\Debug\net6.0\ref\MyVoby.Banking.Domain.dll
+C:\Workspace\myVobi\src\Microservices\Banking\Domain\MyVoby.Banking.Domain\obj\Debug\net6.0\MyVoby.Banking.Domain.pdb

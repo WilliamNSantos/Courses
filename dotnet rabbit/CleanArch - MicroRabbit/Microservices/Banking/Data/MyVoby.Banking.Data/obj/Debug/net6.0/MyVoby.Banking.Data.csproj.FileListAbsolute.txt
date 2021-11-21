@@ -1,0 +1,17 @@
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\bin\Debug\net6.0\MyVoby.Banking.Data.deps.json
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\bin\Debug\net6.0\MyVoby.Banking.Data.runtimeconfig.json
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\bin\Debug\net6.0\MyVoby.Banking.Data.dll
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\bin\Debug\net6.0\ref\MyVoby.Banking.Data.dll
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\bin\Debug\net6.0\MyVoby.Banking.Data.pdb
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\bin\Debug\net6.0\MyVoby.Banking.Domain.dll
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\bin\Debug\net6.0\MyVoby.Banking.Domain.pdb
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\MyVoby.Banking.Data.csproj.AssemblyReference.cache
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\MyVoby.Banking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\MyVoby.Banking.Data.AssemblyInfoInputs.cache
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\MyVoby.Banking.Data.AssemblyInfo.cs
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\MyVoby.Banking.Data.csproj.CoreCompileInputs.cache
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\MyVoby.Banking.Data.csproj.CopyComplete
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\MyVoby.Banking.Data.dll
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\ref\MyVoby.Banking.Data.dll
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\MyVoby.Banking.Data.pdb
+C:\Workspace\myVobi\src\Microservices\Banking\Data\MyVoby.Banking.Data\obj\Debug\net6.0\MyVoby.Banking.Data.genruntimeconfig.cache

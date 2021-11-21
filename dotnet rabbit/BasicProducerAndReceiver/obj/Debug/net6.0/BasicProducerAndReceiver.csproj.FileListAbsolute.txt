@@ -1,0 +1,17 @@
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\bin\Debug\net6.0\BasicProducerAndReceiver.exe
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\bin\Debug\net6.0\BasicProducerAndReceiver.deps.json
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\bin\Debug\net6.0\BasicProducerAndReceiver.runtimeconfig.json
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\bin\Debug\net6.0\BasicProducerAndReceiver.dll
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\bin\Debug\net6.0\ref\BasicProducerAndReceiver.dll
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\bin\Debug\net6.0\BasicProducerAndReceiver.pdb
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\BasicProducerAndReceiver.csproj.AssemblyReference.cache
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\BasicProducerAndReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\BasicProducerAndReceiver.AssemblyInfoInputs.cache
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\BasicProducerAndReceiver.AssemblyInfo.cs
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\BasicProducerAndReceiver.csproj.CoreCompileInputs.cache
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\BasicProducerAndReceiver.csproj.CopyComplete
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\BasicProducerAndReceiver.dll
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\ref\BasicProducerAndReceiver.dll
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\BasicProducerAndReceiver.pdb
+C:\Workspace\Learning\Udemy\dotnet rabbit\BasicProducerAndReceiver\obj\Debug\net6.0\BasicProducerAndReceiver.genruntimeconfig.cache

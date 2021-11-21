@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O0Py5ZudIWrgMspyHeKLr9/pw9OmlEFkrPP7J8aob08AtZkTJx39lZxPdzykXwLibaKEF0PQzui+ahpyLGB2dw==",
+  "success": true,
+  "projectFilePath": "c:\\Workspace\\myVobi\\src\\Domain\\MyVoby.Domain.Core\\MyVoby.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\william\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
