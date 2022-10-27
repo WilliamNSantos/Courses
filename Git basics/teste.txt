@@ -1,1 +1,9 @@
-teste file
+to be searched
+    git tools for vs code
+        easy add/track
+        easy stage/unstage
+        easy commit
+        easy backing out changes
+    setup git tool for merge/diff for vs code
+    
+adding stuff to go for remote repo
